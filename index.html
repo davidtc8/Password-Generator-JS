@@ -16,14 +16,22 @@
         <div class="card-header">
           <h2>Generate a Password</h2>
         </div>
-        <div class="card-body">
-          <textarea
+        <div>
+          <label for="password"></label>
+          <input 
+          type="text" 
+          id="password" 
+          name="name" 
+          placeholder="Your Secure Password" />
+          <input class="btn" type="button" id="btn1" value="Next Question">
+          <p class="output" id="output1"></p>
+          <!-- <textarea
             readonly
             id="password"
             placeholder="Your Secure Password"
             aria-label="Generated Password"
-          ></textarea>
-        </div>
+          ></textarea> -->
+          </div>
         <div class="card-footer">
           <button id="generate" class="btn">Generate Password</button>
         </div>
