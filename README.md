@@ -22,6 +22,5 @@ Inside the "Develop" folder you'll find:
 ## Web Page Link 😏
 <a href="https://davidtc8.github.io/Password-Generator-JS/" target="_blank">Webpage!</a>
 
-
-## Screenshot:
-![image](./Develop/Images/Password%20Generator.jpg)
+## Video:
+[Password Generator Video.webm](https://user-images.githubusercontent.com/71146674/179426127-a363e9d0-04e4-48ec-bd0c-7fbd4139b27b.webm)
