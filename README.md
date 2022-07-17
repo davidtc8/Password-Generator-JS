@@ -20,8 +20,7 @@ Inside the "Develop" folder you'll find:
 - [x] Javascript
 
 ## Web Page Link 😏
-<a href="https://davidtc8.github.io/CSS-HTML-Portfolio/" 
-target="_blank">Webpage!</a>
+<a href="https://davidtc8.github.io/Password-Generator-JS/" target="_blank">Webpage!</a>
 
 
 ## Screenshot:
