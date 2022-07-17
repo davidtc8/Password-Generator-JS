@@ -143,6 +143,7 @@ function pass_length_function(txt1, password) {
 
 // ------- Final Password Function -------
 function final_password_generator() {
+  var text = document.getElementById("password");
   var password_len = PASSWORD_CONFIG.PASSWORD_LENGTH;
   let password = "";
   const my_answers = check_config();
@@ -184,6 +185,7 @@ function final_password_generator() {
     console.log(`My password is ${password}`);
     console.log(`My password len ${password.length}`);
   }
+  text.value = password
 }
 
 function check_config() {
